@@ -1,5 +1,5 @@
 name: Double Take
-version: 1.13.12.5
+version: 1.13.13.0
 image: docker.home.prettybaked.com/hassio-addons/hassio-addon-double-take-{arch}
 url: https://double-take.site/redirect.php?location=github
 panel_icon: mdi:face-recognition
