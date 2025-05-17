@@ -1,7 +1,7 @@
 # syntax = docker/dockerfile:1.4
 ARG BUILD_FROM
 
-FROM skrashevich/double-take:1.13.11.8
+FROM docker.home.prettybaked.com/double-take:latest
 
 ARG S6_OVERLAY_VERSION=3.1.6.2
 ARG BUILD_ARCH=amd64
